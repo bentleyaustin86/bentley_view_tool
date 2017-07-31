@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BentleyViewTool::Renderer.copyright 'Austin Bentley', 'All rights reserved'
+```
 
 ## Development
 
